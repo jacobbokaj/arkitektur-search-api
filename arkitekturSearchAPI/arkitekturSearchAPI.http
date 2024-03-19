@@ -1,0 +1,6 @@
+@arkitekturSearchAPI_HostAddress = http://localhost:5109
+
+GET {{arkitekturSearchAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
