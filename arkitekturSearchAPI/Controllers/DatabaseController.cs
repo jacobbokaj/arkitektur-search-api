@@ -27,8 +27,8 @@ namespace SearchProgamModul3.Server.Controllers
             Word[] words = new Word[3] { new Word(1),new Word(2), new Word(3)};
             words[0].Id = 20;
             words[1].Name = "API kald :D";
-            return words;
-           // return Repository.GetAllWords();
+           // return words;
+            return Repository.GetAllWords();
         }
 
 

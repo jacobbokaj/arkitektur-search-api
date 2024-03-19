@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OO+/Ha0H1fWsxgdAiEiBfWbtY+vvzPC/sW9vPpjQy99GZLw4LrOcyC2nMIeBPQjKqMXN6A6FNxUStjQN+bvUYA==",
+  "dgSpecHash": "zvFmiAh6B5T/S44R7oU5mdg+oEtb7Uw62z0SXWnS+LX0h89xqdGaATWUBvb1GR9bJ8vRmznSq71/UODQzPbUEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacob\\source\\arkitekturSearchAPI\\arkitekturSearchAPI\\arkitekturSearchAPI.csproj",
+  "projectFilePath": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\arkitekturSearchAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.data.sqlite\\8.0.3\\microsoft.data.sqlite.8.0.3.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.3\\microsoft.data.sqlite.core.8.0.3.nupkg.sha512",

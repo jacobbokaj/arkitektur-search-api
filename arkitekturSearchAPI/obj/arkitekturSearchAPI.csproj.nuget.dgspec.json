@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\source\\arkitekturSearchAPI\\arkitekturSearchAPI\\arkitekturSearchAPI.csproj": {}
+    "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\arkitekturSearchAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\source\\arkitekturSearchAPI\\arkitekturSearchAPI\\arkitekturSearchAPI.csproj": {
+    "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\arkitekturSearchAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\source\\arkitekturSearchAPI\\arkitekturSearchAPI\\arkitekturSearchAPI.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\arkitekturSearchAPI.csproj",
         "projectName": "arkitekturSearchAPI",
-        "projectPath": "C:\\Users\\jacob\\source\\arkitekturSearchAPI\\arkitekturSearchAPI\\arkitekturSearchAPI.csproj",
+        "projectPath": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\arkitekturSearchAPI.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\source\\arkitekturSearchAPI\\arkitekturSearchAPI\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
