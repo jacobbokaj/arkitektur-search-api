@@ -9,7 +9,6 @@ namespace SearchProgamModul3.Server.SearchMehanics
     {
         IDatabaseRepository mDatabase;
 
-        Dictionary<string, int> mWords;
 
         public SearchLogic(IDatabaseRepository database)
         {

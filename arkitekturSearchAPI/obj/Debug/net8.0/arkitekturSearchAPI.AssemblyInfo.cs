@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arkitekturSearchAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4393f92e3c99b87c4b4ddcb4c1dfdd94abcdc8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+962276e0847de594228d17db0b33d115394f8b97")]
 [assembly: System.Reflection.AssemblyProductAttribute("arkitekturSearchAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arkitekturSearchAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

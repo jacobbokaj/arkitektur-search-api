@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\mehanics\\searchlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\mehanics\\searchlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\models\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\models\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\models\\idatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\models\\idatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +43,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "arkitekturSearchAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "arkitekturSearchAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T10:33:43.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "arkitekturSearchAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\appsettings.json",
+              "RelativeToolTip": "arkitekturSearchAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T10:32:14.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Program.cs",
+              "RelativeDocumentMoniker": "arkitekturSearchAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Program.cs",
+              "RelativeToolTip": "arkitekturSearchAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:31:54.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDatabaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Models\\IDatabaseRepository.cs",
+              "RelativeDocumentMoniker": "arkitekturSearchAPI\\Models\\IDatabaseRepository.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Models\\IDatabaseRepository.cs",
+              "RelativeToolTip": "arkitekturSearchAPI\\Models\\IDatabaseRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:31:52.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchLogic.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Mehanics\\SearchLogic.cs",
+              "RelativeDocumentMoniker": "arkitekturSearchAPI\\Mehanics\\SearchLogic.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Mehanics\\SearchLogic.cs",
+              "RelativeToolTip": "arkitekturSearchAPI\\Mehanics\\SearchLogic.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:29:18.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DatabaseController.cs",
               "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
               "RelativeDocumentMoniker": "arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
               "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
               "RelativeToolTip": "arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAANAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T14:55:05.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DatabaseDBContext.cs",
               "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
               "RelativeDocumentMoniker": "arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
               "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
               "RelativeToolTip": "arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T14:55:02.54Z",
               "EditorCaption": ""

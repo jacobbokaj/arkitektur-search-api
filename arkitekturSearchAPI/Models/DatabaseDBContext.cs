@@ -19,7 +19,7 @@ namespace SearchProgamModul3.Server.Models
 
             connectionStringBuilder.DataSource = Paths.DATABASE;
 
-            SQLitePCL.Batteries.Init();
+           // SQLitePCL.Batteries.Init();
             _connection = new SqliteConnection(connectionStringBuilder.ConnectionString);
             _connection.Open();
         }
