@@ -3,32 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\mehanics\\searchlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\mehanics\\searchlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\models\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\models\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\models\\idatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\models\\idatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\arkitektursearchapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\arkitektursearchapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\models\\idatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\models\\idatabaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\arkitektursearchapi\\models\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F618E2-B445-4A7F-BD20-1E0B96322AEA}|arkitekturSearchAPI\\arkitekturSearchAPI.csproj|solutionrelative:arkitektursearchapi\\models\\databasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF9A5CD-F6B6-4313-B5F7-6AA236BD0E57}|docker-compose.dcproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1CF9A5CD-F6B6-4313-B5F7-6AA236BD0E57}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF9A5CD-F6B6-4313-B5F7-6AA236BD0E57}|docker-compose.dcproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CF9A5CD-F6B6-4313-B5F7-6AA236BD0E57}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF9A5CD-F6B6-4313-B5F7-6AA236BD0E57}|docker-compose.dcproj|c:\\users\\jacob\\source\\repos\\arkitektur-search-api\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1CF9A5CD-F6B6-4313-B5F7-6AA236BD0E57}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,45 +49,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "arkitekturSearchAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "arkitekturSearchAPI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-22T10:33:43.445Z",
+              "DocumentIndex": 1,
+              "Title": "arkitekturSearchAPI.http",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\arkitekturSearchAPI.http",
+              "RelativeDocumentMoniker": "arkitekturSearchAPI\\arkitekturSearchAPI.http",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\arkitekturSearchAPI.http",
+              "RelativeToolTip": "arkitekturSearchAPI\\arkitekturSearchAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-10T19:01:17.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\appsettings.json",
               "RelativeDocumentMoniker": "arkitekturSearchAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\appsettings.json",
               "RelativeToolTip": "arkitekturSearchAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-22T10:32:14.706Z",
+              "WhenOpened": "2024-04-10T16:46:56.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
+              "RelativeToolTip": "arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:05:23.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-10T17:39:44.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Program.cs",
               "RelativeDocumentMoniker": "arkitekturSearchAPI\\Program.cs",
               "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Program.cs",
               "RelativeToolTip": "arkitekturSearchAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T10:31:54.526Z",
+              "WhenOpened": "2024-04-10T17:14:16.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-10T17:34:38.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
+              "RelativeDocumentMoniker": "arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
+              "RelativeToolTip": "arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:50:14.242Z",
               "EditorCaption": ""
             },
             {
@@ -87,49 +150,35 @@
               "RelativeDocumentMoniker": "arkitekturSearchAPI\\Models\\IDatabaseRepository.cs",
               "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Models\\IDatabaseRepository.cs",
               "RelativeToolTip": "arkitekturSearchAPI\\Models\\IDatabaseRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T10:31:52.75Z",
+              "WhenOpened": "2024-04-10T18:55:16.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SearchLogic.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Mehanics\\SearchLogic.cs",
-              "RelativeDocumentMoniker": "arkitekturSearchAPI\\Mehanics\\SearchLogic.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Mehanics\\SearchLogic.cs",
-              "RelativeToolTip": "arkitekturSearchAPI\\Mehanics\\SearchLogic.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T10:29:18.912Z",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-10T17:37:28.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DatabaseController.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
-              "RelativeDocumentMoniker": "arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
-              "RelativeToolTip": "arkitekturSearchAPI\\Controllers\\DatabaseController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T14:55:05.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DatabaseDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
-              "RelativeDocumentMoniker": "arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
-              "ToolTip": "C:\\Users\\jacob\\source\\repos\\arkitektur-search-api\\arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
-              "RelativeToolTip": "arkitekturSearchAPI\\Models\\DatabaseDBContext.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T14:55:02.54Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAE8BAAAAAAAAAAAQwGABAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-10T15:46:02.909Z"
             }
           ]
         }

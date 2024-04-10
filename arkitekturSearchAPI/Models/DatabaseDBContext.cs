@@ -14,12 +14,11 @@ namespace SearchProgamModul3.Server.Models
 
         public DatabaseDBContext()
         {
-
             var connectionStringBuilder = new SqliteConnectionStringBuilder();
 
             connectionStringBuilder.DataSource = Paths.DATABASE;
 
-           // SQLitePCL.Batteries.Init();
+            // SQLitePCL.Batteries.Init();
             _connection = new SqliteConnection(connectionStringBuilder.ConnectionString);
             _connection.Open();
         }
@@ -58,7 +57,7 @@ namespace SearchProgamModul3.Server.Models
             string condition = String.Empty;
             if (flag == 1)
             {
-             condition = flag == 1 ? "'^[A-Z].*$'" : "^[a-z].*$";
+                condition = flag == 1 ? "'^[A-Z].*$'" : "^[a-z].*$";
 
             }
             selectCmd.CommandText = "SELECT * FROM word WHERE name REGEXP " + condition;
@@ -132,9 +131,9 @@ namespace SearchProgamModul3.Server.Models
             return word;
         }
 
-        public List<int> GetWordIds(string[] query, out List<string> outIgnored,bool caseSensitiveFlag)
+        public List<int> GetWordIds(string[] query, out List<string> outIgnored, bool caseSensitiveFlag)
         {
-          List<Word>  mWords = GetAllWords();
+            List<Word> mWords = GetAllWords();
 
 
             var res = new List<int>();
@@ -260,7 +259,8 @@ namespace SearchProgamModul3.Server.Models
 
             List<WordWithFrequrency> wordWithFrequrencies = new List<WordWithFrequrency>();
 
-            using (var reader = selectCmd.ExecuteReader()){
+            using (var reader = selectCmd.ExecuteReader())
+            {
                 while (reader.Read())
                 {
                     var wordId = reader.GetInt32(0);

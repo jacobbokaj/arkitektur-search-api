@@ -11,8 +11,9 @@ namespace arkitekturSearchAPI
             // Add services to the container.
 
             builder.Services.AddControllers();
-
-
+          //  builder.Services.AddReverseProxy().
+            //    LoadFromConfig(builder.Configuration.GetSection("ReverseProxy"));
+            builder.Services.AddHealthChecks();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -20,6 +21,9 @@ namespace arkitekturSearchAPI
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
+
+        //    app.MapReverseProxy();
+          //  app.MapHealthChecks("health");
 
 
             app.MapControllers();

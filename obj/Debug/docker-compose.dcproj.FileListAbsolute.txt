@@ -1,0 +1,14 @@
+C:\Users\jacob\source\repos\arkitektur-search-api\bin\Debug\arkitekturSearchAPI.deps.json
+C:\Users\jacob\source\repos\arkitektur-search-api\bin\Debug\arkitekturSearchAPI.runtimeconfig.json
+C:\Users\jacob\source\repos\arkitektur-search-api\bin\Debug\appsettings.Development.json
+C:\Users\jacob\source\repos\arkitektur-search-api\bin\Debug\appsettings.json
+C:\Users\jacob\source\repos\arkitektur-search-api\bin\Debug\arkitekturSearchAPI.exe
+C:\Users\jacob\source\repos\arkitektur-search-api\bin\Debug\arkitekturSearchAPI.dll
+C:\Users\jacob\source\repos\arkitektur-search-api\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\jacob\source\repos\arkitektur-search-api\bin\Debug\Yarp.ReverseProxy.dll
+C:\Users\jacob\source\repos\arkitektur-search-api\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\jacob\source\repos\arkitektur-search-api\bin\Debug\System.IO.Hashing.dll
+C:\Users\jacob\source\repos\arkitektur-search-api\bin\Debug\arkitekturSearchAPI.pdb
+C:\Users\jacob\source\repos\arkitektur-search-api\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\arkitektur-search-api\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\arkitektur-search-api\obj\Debug\docker-c.35A3FFBA.Up2Date

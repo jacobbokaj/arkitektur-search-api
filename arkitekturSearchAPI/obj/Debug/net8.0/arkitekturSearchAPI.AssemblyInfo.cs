@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("10a4de8d-4ceb-4bf3-a3d6-105f38ff34e5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("arkitekturSearchAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+962276e0847de594228d17db0b33d115394f8b97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7b8f7e0cc545c890f662f32d94a98bde5cb8065")]
 [assembly: System.Reflection.AssemblyProductAttribute("arkitekturSearchAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arkitekturSearchAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

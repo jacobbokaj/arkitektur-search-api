@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  arkitektursearchapi:
+    image: ${DOCKER_REGISTRY-}arkitektursearchapi
+    container_name: search-api
+    build:
+      context: .
+      dockerfile: arkitekturSearchAPI\Dockerfile
+  arkitektursearchapi1:
+    image: ${DOCKER_REGISTRY-}arkitektursearchapi
+    container_name: search-api1
+    build:
+      context: .
+      dockerfile: arkitekturSearchAPI\Dockerfile
+  arkitektursearchapi2:
+    image: ${DOCKER_REGISTRY-}arkitektursearchapi
+    container_name: search-api2
+    build:
+      context: .
+      dockerfile: arkitekturSearchAPI\Dockerfile

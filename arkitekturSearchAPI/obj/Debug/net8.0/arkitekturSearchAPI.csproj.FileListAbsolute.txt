@@ -101,3 +101,5 @@ C:\Users\jacob\source\repos\arkitektur-search-api\arkitekturSearchAPI\obj\Debug\
 C:\Users\jacob\source\repos\arkitektur-search-api\arkitekturSearchAPI\obj\Debug\net8.0\arkitekturSearchAPI.pdb
 C:\Users\jacob\source\repos\arkitektur-search-api\arkitekturSearchAPI\obj\Debug\net8.0\arkitekturSearchAPI.genruntimeconfig.cache
 C:\Users\jacob\source\repos\arkitektur-search-api\arkitekturSearchAPI\obj\Debug\net8.0\ref\arkitekturSearchAPI.dll
+C:\Users\jacob\source\repos\arkitektur-search-api\arkitekturSearchAPI\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\jacob\source\repos\arkitektur-search-api\arkitekturSearchAPI\bin\Debug\net8.0\Yarp.ReverseProxy.dll
